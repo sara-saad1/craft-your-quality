@@ -107,7 +107,7 @@ const ContactSection = () => {
             </a>
 
             <a
-              href="mailto:contact@sarasaad.dev"
+              href="mailto:saranagy600@gmail.com"
               className="flex items-center gap-4 p-4 rounded-xl bg-card border border-border card-hover group"
             >
               <div className="p-2.5 rounded-lg bg-secondary">
@@ -115,7 +115,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <p className="font-semibold text-sm">Email</p>
-                <p className="text-xs text-muted-foreground">Get in touch via email</p>
+                <p className="text-xs text-muted-foreground">saranagy600@gmail.com</p>
               </div>
             </a>
           </motion.div>
